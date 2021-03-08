@@ -6,5 +6,6 @@
 [gh-pages](https://cpettinato.github.io/infovis/index.html)
 
 
+Visualizaciones:
 
-Visualizacion 1: Seats Held by Women in National Parliaments 
+[Visualizacion 1: Seats Held by Women in National Parliaments](https://cpettinato.github.io/infovis/index.html)
