@@ -9,6 +9,6 @@
 
 [Visualizacion 2.0: The World's Biggest Cash Crop ](https://cpettinato.github.io/infovis/visualizacion2.html)
 
-[Visualizacion 2.1: The World's Biggest Cash Crop ](https://cpettinato.github.io/infovis/AMvisualizacion2.html)
+[Visualizacion 2.1: The World's Biggest Cash Crop ](https://cpettinato.github.io/infovis/Visualizacion2.html)
 
 
