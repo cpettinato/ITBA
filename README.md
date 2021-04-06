@@ -11,4 +11,4 @@
 
 [Visualizacion 2.1: The World's Biggest Cash Crop ](https://cpettinato.github.io/infovis/AMvisualizacion2.html)
 
-[Tarea de Visualizacion: Poblacíon Argentina ](https://cpettinato.github.io/infovis/argentina.html)
+[Tarea de Visualizacion: Población Argentina ](https://cpettinato.github.io/infovis/argentina.html)
