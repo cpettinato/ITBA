@@ -15,4 +15,4 @@
 
 [Visualizacion Datos Personales: TP](https://cpettinato.github.io/infovis/DatosPersonales.html)
 
-[Visualizacion Datos Personales: Portada](https://cpettinato.github.io/infovis/)
+[Visualizacion Datos Personales: Portada](https://cpettinato.github.io/infovis/Portada Camila Pettinato.png)
