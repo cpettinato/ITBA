@@ -14,3 +14,5 @@
 [Tarea de Visualizacion: Población Argentina ](https://cpettinato.github.io/infovis/argentina.html)
 
 [Visualizacion Datos Personales: TP](https://cpettinato.github.io/infovis/DatosPersonales.html)
+
+[Visualizacion Datos Personales: Portada](https://cpettinato.github.io/infovis/)
