@@ -16,3 +16,6 @@
 [Visualizacion Datos Personales: TP](https://cpettinato.github.io/infovis/DatosPersonales.html)
 
 [Visualizacion Datos Personales: Portada](https://cpettinato.github.io/infovis/TP-Portada.png)
+
+
+[Foto Cara:](https://cpettinato.github.io/infovis/Foto.png)
