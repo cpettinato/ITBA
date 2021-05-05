@@ -18,4 +18,4 @@
 [Visualizacion Datos Personales: Portada](https://cpettinato.github.io/infovis/TP-Portada.png)
 
 
-[Foto Cara](https://cpettinato.github.io/infovis/FotoCara.png)
+[Foto Cara](https://cpettinato.github.io/infovis/Foto.png)
