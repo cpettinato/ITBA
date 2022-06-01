@@ -20,4 +20,3 @@
 
 [Foto Cara: ](https://cpettinato.github.io/infovis/fotocara.png)
 
-[Visualizacion Covid Linea 147: TP - Proyecto I](https://cpettinato.github.io/infovis/TP_Proyecto.html)
