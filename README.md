@@ -17,4 +17,4 @@
 
 [Visualizacion Datos Personales: Portada](https://cpettinato.github.io/infovis/TP-Portada.png)
 
-
+[Proyecto I: Tp Final](https://cpettinato.github.io/infovis/TP_Proyecto.html)
