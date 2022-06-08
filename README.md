@@ -19,6 +19,7 @@
 - [Visualizacion Datos Personales: Portada](https://cpettinato.github.io/ITBA/TP-Portada.png)
 
 # Proyecto I
+Este proyecto consiste de la normalización, limpieza y exploración de grandes cantidades de datos. El manejo de datos se hizo con SQL y la presentacion con Tableau.
 - [Proyecto I: Tp Final](https://cpettinato.github.io/ITBA/TP_Proyecto.html)
 
 # Analisis Predictivo
