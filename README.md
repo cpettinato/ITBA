@@ -1,7 +1,7 @@
 # Instituto Tecnologico de Buenos Aires (ITBA)
 Materias de la Licenciatura Analítica Empresarial y Social del Instituto Teconológico de Buenos Aires (ITBA)
 
-# Visualización de la Información
+# 72.74 - Visualización de la Información
 
 [Cheatsheet Markdown](github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -20,14 +20,14 @@ Visualización de datos sobre el tiempo consumido en series televisivas dsede 20
 
 [Visualizacion Datos Personales](https://cpettinato.github.io/ITBA/DatosPersonales.html)
 
-# Proyecto I
+# 82.01 - Proyecto I
 Este proyecto consiste de la normalización, limpieza y exploración de grandes cantidades de datos. El manejo de datos se hizo con SQL y la presentacion con Tableau.
 
 [Tp Final](https://cpettinato.github.io/ITBA/TP_Proyecto.html)
 
 Compañeras de equipo: [Camila Collado](https://github.com/camicollado), [Abril Noguera](https://github.com/abrilnoguera)
 
-# Analisis Predictivo
+# 82.05 - Analisis Predictivo
 
 ## Examen 1
 
