@@ -1,4 +1,5 @@
-# Instituto Tecnologico de Buenos Aires
+# Instituto Tecnologico de Buenos Aires (ITBA)
+Materias de la Licenciatura Analítica Empresarial y Social del Instituto Teconológico de Buenos Aires (ITBA)
 
 # Visualización de la Información
 
@@ -24,7 +25,7 @@ Este proyecto consiste de la normalización, limpieza y exploración de grandes 
 
 [Tp Final](https://cpettinato.github.io/ITBA/TP_Proyecto.html)
 
-Compañeras de equipo: [Camila Collado](https://github.com/camicollado), Abril Noguera
+Compañeras de equipo: [Camila Collado](https://github.com/camicollado), [Abril Noguera](https://github.com/abrilnoguera)
 
 # Analisis Predictivo
 
