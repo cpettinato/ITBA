@@ -14,13 +14,17 @@
 
 - [Tarea de Visualizacion: Población Argentina ](https://cpettinato.github.io/ITBA/argentina.html)
 
-- [Visualizacion Datos Personales: TP](https://cpettinato.github.io/ITBA/DatosPersonales.html)
-
-- [Visualizacion Datos Personales: Portada](https://cpettinato.github.io/ITBA/TP-Portada.png)
+## Datos Personales
+Visualización de datos sobre el tiempo consumido en series televisivas dsede 2013 a 2021 tomando como base la información de Netflix, Stremio, Prime Video y IMDB.
+ [Visualizacion Datos Personales: TP](https://cpettinato.github.io/ITBA/DatosPersonales.html)
+ [Visualizacion Datos Personales: Portada](https://cpettinato.github.io/ITBA/TP-Portada.png)
 
 # Proyecto I
 Este proyecto consiste de la normalización, limpieza y exploración de grandes cantidades de datos. El manejo de datos se hizo con SQL y la presentacion con Tableau.
-- [Proyecto I: Tp Final](https://cpettinato.github.io/ITBA/TP_Proyecto.html)
+
+[Tp Final](https://cpettinato.github.io/ITBA/TP_Proyecto.html)
+
+Compañeras de equipo: [Camila Collado](https://github.com/camicollado), Abril Noguera
 
 # Analisis Predictivo
 
